@@ -1,0 +1,30 @@
+{
+  "name": "42734",
+  "version": "1.0.0",
+  "description": "Minimal reproduction for https://github.com/renovatebot/renovate/discussions/42734",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephengtuggy/42734.git"
+  },
+  "private": false,
+  "dependencies": {
+    "@angular/animations": "^21.2.7",
+    "@angular/common": "^21.2.7",
+    "@angular/compiler": "^21.2.7",
+    "@angular/core": "^21.2.7",
+    "@angular/forms": "^21.2.7",
+    "@angular/platform-browser": "^21.2.7",
+    "@angular/platform-browser-dynamic": "^21.2.7",
+    "@angular/platform-server": "^21.2.7",
+    "@angular/router": "^21.2.7"
+  },
+  "devDependencies": {
+    "@angular/build": "^21.2.6",
+    "@angular/cli": "^21.2.6",
+    "@angular/compiler-cli": "^21.2.7"
+  }
+}
