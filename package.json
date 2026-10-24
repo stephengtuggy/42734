@@ -30,7 +30,7 @@
     "@angular/compiler-cli": "21.2.7"
   },
   "overrides": {
-    "chokidar": "5.0.0",
+    "chokidar": "6.0.0",
     "readdirp": "5.0.0"
   }
 }
